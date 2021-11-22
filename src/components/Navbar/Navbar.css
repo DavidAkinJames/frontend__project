@@ -1,0 +1,17 @@
+.navbar {
+    display: flex;
+    background-color: #e5e5e5;
+    padding-left: 10px;
+    font-family: 'Mulish', sans-serif;
+}
+
+.navbar__text {
+    padding: 20px;
+    font-size: 20px;
+    padding-bottom: 5px;
+    color: #a79191;
+}
+
+.navbar__logo{
+  padding-top: 10px;
+}
